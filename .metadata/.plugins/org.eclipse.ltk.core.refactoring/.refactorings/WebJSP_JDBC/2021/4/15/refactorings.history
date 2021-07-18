@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SingletonHelper.java&apos; to &apos;WebServlet_4_Memo_mvc/src/kr.or.bit.utils&apos;&#x0D;&#x0A;- Original project: &apos;WebJSP_JDBC&apos;&#x0D;&#x0A;- Destination element: &apos;WebServlet_4_Memo_mvc/src/kr.or.bit.utils&apos;&#x0D;&#x0A;- Original element: &apos;kr.or.bit.utils.SingletonHelper.java&apos;" description="Copy compilation unit" destination="=WebServlet_4_Memo_mvc/src&lt;kr.or.bit.utils" element1="/src&lt;kr.or.bit.utils{SingletonHelper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617585673742" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,37 @@
+select * from adminlist;
+
+desc adminlist;
+create table  adminlist (
+USERID    VARCHAR2(50) ,
+PWD       VARCHAR2(50) 
+)
+--insert
+admin	1004
+
+---------------------------
+
+meta-inf
+query
+
+adminlist 테이블 만들고
+데이터 2건 넣고
+
+emp 테이블에다가
+alter table emp
+add filename varchar2(50)
+
+bituser 계정에다가
+--------------------------------
+create table adminlist(
+USERID varchar2(50),
+PWD varchar2(50)
+);
+
+insert into adminlist(userid,pwd)
+values('admin','1004');
+
+select * from adminlist;
+
+---------------------------------------
+
+이미지 업로드 할꺼라 추가

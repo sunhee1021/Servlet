@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Ex11_Main_Include.jsp&apos; to &apos;Ex11_Main_Include.jsp&apos;&#x0D;&#x0A;- Original project: &apos;WebJSP&apos;&#x0D;&#x0A;- Destination element: &apos;Ex11_Main_Include.jsp&apos;&#x0D;&#x0A;- Original element: &apos;Ex11_Main_Include.jsp&apos;" description="Copy file" element1="WebContent/Ex11_Main_Include.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1616729714005" target="/WebJSP/WebContent/Ex11_Main_Include.jsp" units="0" version="1.0"/>
+</session>

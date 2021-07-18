@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>WebServlet_2</display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+  	<servlet-name>path</servlet-name>
+  	<servlet-class>com.PathServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>path</servlet-name>
+  	<url-pattern>/java/study/*</url-pattern>
+  </servlet-mapping>
+  
+  <!-- 
+  http://192.168.0.19:8090/WebServlet_2/java/study/board.jsp 라는 요청이 들어오면
+  com.PathServlet 이 실행될까? 돼죠! 경로만 가지고도 할수 있어요
+  
+  그럼 만약에
+  
+  http://192.168.0.19:8090/WebServlet_2/java/study/a.jsp
+  http://192.168.0.19:8090/WebServlet_2/java/study/b.jsp   -> a,b파일 있다고 가정하면 될까? 돼죠
+  
+  결론 , 경로에 대한 매핑도 가능하다
+  /java/study/*  경로만 맞으면! 가능! 
+  어쨌든 study까지만 맞으면 되는거야
+   -->
+</web-app>

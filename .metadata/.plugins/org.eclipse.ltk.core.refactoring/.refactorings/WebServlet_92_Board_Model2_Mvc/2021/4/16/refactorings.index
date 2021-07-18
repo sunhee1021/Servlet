@@ -1,0 +1,30 @@
+1618099667323	Delete element
+1618099891336	Rename type 'action'
+1618099965520	Delete element
+1618100308255	Rename type 'FrontMemoController'
+1618100335166	Rename type 'FrontBoardController'
+1618101316306	Delete element
+1618107981159	Move file
+1618107986198	Move file
+1618107988852	Move file
+1618107991123	Move file
+1618107993309	Move file
+1618107996099	Move file
+1618108217093	Delete element
+1618126556932	Delete element
+1618126625407	Rename type 'board_writeok'
+1618126665072	Rename type 'BoardWriteService'
+1618129144551	Delete element
+1618129146949	Delete element
+1618130254069	Delete element
+1618130662505	Delete element
+1618130850246	Delete element
+1618131429617	Delete element
+1618304652577	Move 'board_content.jsp' to 'WebContent'
+1618304658597	Move 'board_content.jsp' to 'board'
+1618360569812	Move 'index.jsp' to 'WebServlet_92_Board_Model2_Mvc'
+1618364823123	Move 'index.jsp' to 'WebContent'
+1618366309387	Move 'index.jsp' to 'WebServlet_92_Board_Model2_Mvc'
+1618366313980	Move 'UsingConnectionPool.jsp' to 'WebServlet_92_Board_Model2_Mvc'
+1618366328340	Move 'index.jsp' to 'WebContent'
+1618366330602	Move 'UsingConnectionPool.jsp' to 'WebContent'

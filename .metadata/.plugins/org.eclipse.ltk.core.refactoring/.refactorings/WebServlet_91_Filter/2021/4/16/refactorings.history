@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;kr.or.bit.filter&apos; to &apos;WebServlet_92_Board_Model2_Mvc/src&apos;&#x0D;&#x0A;- Original project: &apos;WebServlet_91_Filter&apos;&#x0D;&#x0A;- Destination element: &apos;WebServlet_92_Board_Model2_Mvc/src&apos;&#x0D;&#x0A;- Original element: &apos;WebServlet_91_Filter/src/kr.or.bit.filter&apos;" description="Copy package" destination="=WebServlet_92_Board_Model2_Mvc/src" element1="/src&lt;kr.or.bit.filter" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1618101864201" version="1.0"/>
+</session>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.bit.Message"/>
+    <fullyQualifiedTypeName name="sun.rmi.server.Dispatcher"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="kr.or.bit.utils.SingletonHelper"/>
+    <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="kr.or.bit.utils.ConnectionHelper"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dto.Mvcregister"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.RegisterOkServiceAction"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dto.registerdto"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dao.Mvcregisterdao"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.LoginOkServiceAction"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dto.memo"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dao.memodao"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.MemoAddService"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dto.Board"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="javax.naming.NamingException"/>
+    <fullyQualifiedTypeName name="kr.or.bit.dao.BoardDao"/>
+    <fullyQualifiedTypeName name="kr.or.bit.action.ActionForward"/>
+    <fullyQualifiedTypeName name="kr.or.bit.action.Action"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.BoardWriteOkService"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.BoardEditOkService"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.BoardReplyOkService"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.BoardReplyDeleteService"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.BoardDeleteOkService"/>
+    <fullyQualifiedTypeName name="kr.or.bit.service.BoardReWriteService"/>
+    <fullyQualifiedTypeName name="com.sun.xml.internal.ws.util.StringUtils"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.buf.StringUtils"/>
+</qualifiedTypeNameHistroy>

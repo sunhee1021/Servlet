@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>WebServlet_1</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file> <!-- index가 없으면 default.jsp 파일을 보여줌 -->
+  </welcome-file-list>
+  
+  <!-- 
+     주소 매핑 하기
+     localhost:8090:WebServlet/simple 요청이 오면 (서버)
+  -->
+  <servlet>
+     <servlet-name>simplecontroller</servlet-name> <!-- simplecontroller는 그냥 가명칭 -->
+     <servlet-class>com.SimpleController</servlet-class> <!-- 이건중요해 대소문자까지 정확히적어야함 -->
+  </servlet>
+  <servlet-mapping>
+     <servlet-name>simplecontroller</servlet-name>
+     <url-pattern>/simple</url-pattern> <!-- 클라이언트가 localhost:8090/WebServlet/simple이라는 요청이 오면
+  											서버는 url-pattern과 비교해서 com.SimpleController 실행이 됨
+  											그래서 default.jsp 에   /simple를 적어둔거임 -->
+  </servlet-mapping>
+  
+  <!-- 
+     주소 매핑 하기
+     localhost:8090:WebServlet_1/board 요청이 오면 com.board.FrontBoardController 컴파일하고 실행하겠다.
+  -->
+  <servlet>
+     <servlet-name>frontcontroller</servlet-name>
+     <servlet-class>com.board.FrontBoardController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+     <servlet-name>frontcontroller</servlet-name>
+     <url-pattern>/board</url-pattern>
+  </servlet-mapping>
+<!-- 
+  	192.168.0.19:8090/WebServlet_1/board >> com.board
+   -->
+</web-app>

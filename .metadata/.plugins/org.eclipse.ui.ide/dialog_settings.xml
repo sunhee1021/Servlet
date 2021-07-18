@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="612"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="581"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\sh089\Downloads\WebLabs.selection (1)\WebJSP_JDBC_HomeWork"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_Team1_Board_Model2_Mvc (1)"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_Team1_Board_Model2_Mvc"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_94_Member_Board_Mvc_Action"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_Team1_Board_Model2_Mvc\WebServlet_Team1_Board_Model2_Mvc"/>
+			<item value="C:\Users\sh089\Downloads\WebLabs\Emp2_Model2_Mvc_Team1"/>
+			<item value="C:\Users\sh089\Downloads\WebLabs\Emp_Model2_Mvc_Team1"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_92_Board_Model2_MVC_Mine\WebServlet_92_Board_Model2(BS)"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_93_Board_Mvc_Action_Notice_New"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_92_FileUpload"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_5_Board_Model1_Sample"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_91_MemoTT_mvc_dbcp_helper_Interface"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_91_FilterTT"/>
+			<item value="C:\Users\sh089\Downloads\WebServlet_4_Memo_mvc"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\sh089\WEB(Back)\WebLabs\WebServlet_91_Memo_mvc_dbcp_helper_Interface\WebContent\memo.html"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="669"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+</section>
